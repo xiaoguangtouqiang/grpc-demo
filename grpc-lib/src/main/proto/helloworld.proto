@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+//定义输出的目录，生成的目录就是“net/devh/examples/grpc/lib”下面
+option java_package = "net.devh.examples.grpc.lib";
+//定义输出的文件名称，生成在lib下的就是HelloWorldProto.class
+option java_outer_classname = "HelloWorldProto";
+
+// The greeting service definition.
+//定义的接口的类，这里会生成一个SimpleGrpc.class，服务端需要来实现的
+service Simple {
+    //定义接口方法
+    rpc SayHello (HelloRequest) returns (HelloReply) {
+    }
+}
+
+//请求参数
+message HelloRequest {
+    string name = 1;
+}
+
+//返回结果
+message HelloReply {
+    string message = 1;
+}

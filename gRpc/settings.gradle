@@ -1,0 +1,2 @@
+includeFlat 'grpc-lib'
+rootProject.name = 'gRpc'

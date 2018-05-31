@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.devh:grpc-server-spring-boot-autoconfigure:1.4.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.devh/grpc-server-spring-boot-autoconfigure/1.4.0.RELEASE/3dfc30863d2192f6cfaa9348634842bdf9cfcbcc/grpc-server-spring-boot-autoconfigure-1.4.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.devh/grpc-server-spring-boot-autoconfigure/1.4.0.RELEASE/9ff67cbb2b215131af47f02e56172c007dd9066/grpc-server-spring-boot-autoconfigure-1.4.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

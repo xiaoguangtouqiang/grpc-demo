@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client_main.iml" group="gRpc-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client_test.iml" group="gRpc-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc_main.iml" group="gRpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc_test.iml" group="gRpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib.iml" group="grpc-lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib_main.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib_main.iml" group="grpc-lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib_test.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib_test.iml" group="grpc-lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rpc-demo.iml" filepath="$PROJECT_DIR$/.idea/rpc-demo.iml" />
+    </modules>
+  </component>
+</project>
